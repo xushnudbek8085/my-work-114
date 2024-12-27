@@ -1,0 +1,32 @@
+img{
+    width: 400px;
+    height: 420px;
+}
+.b{
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    padding: 20px 0px 0px 70px;
+
+}
+body{
+    background-color: red;
+}
+.div1{
+    position: relative;
+    left: 50px;
+    top: 10px;
+    font-size: 10px;
+}
+.fa-brands{
+    font-size: 50px;
+    position: relative;
+    left:-150px;
+    top: 70px;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+}
